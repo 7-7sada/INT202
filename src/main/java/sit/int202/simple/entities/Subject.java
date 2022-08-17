@@ -1,4 +1,4 @@
-package sit.int202.simple;
+package sit.int202.simple.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -12,5 +12,5 @@ import lombok.ToString;
 public class Subject {
     private String id;
     private String title;
-    private Double credit;
+    private Integer credit;
 }
