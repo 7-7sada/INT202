@@ -9,6 +9,8 @@
 </h1>
 <h2>This my web app - Jedsada</h2>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+<a href="hello-servlet">Hello Servlet</a><br>
+<a href="subject_form.html">Add New Subject</a><br>
+<a href="TestReqParam">Select Favorite Subjects</a><br>
 </body>
 </html>
